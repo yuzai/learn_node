@@ -1,0 +1,11 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
